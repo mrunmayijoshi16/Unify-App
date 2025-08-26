@@ -16,19 +16,19 @@ It brings together a Marketplace, Study Partner Finder, and Anonymous Confession
 🎨 Modern UI – Built with React, Tailwind CSS, and responsive design for a smooth experience.
 
 🛠️ Tech Stack
-Frontend
 
+Frontend
 ⚛️ React (with React Router for navigation)
 
 🎨 Tailwind CSS for styling
 
 Backend
-
 🟢 Node.js + Express.js
 
 🛢️ MySQL (or any SQL database for storing users, marketplace items, etc.)
 
 🚀 Getting Started
+
 1️⃣ Clone the Repository
 git clone https://github.com/mrunmayijoshi16/Unify-App.git
 cd Unify-App
